@@ -1,0 +1,12 @@
+RSA Numbers
+	- has exactly four divisors
+		- four numbers that divide into each other evenly
+
+
+For example
+	10 is an RSA Number
+		divisors
+			(1, 2, 5, 10)
+	12 is not an RSA Number
+		divisors
+			(1, 2, 3, 4, 6, 12)
